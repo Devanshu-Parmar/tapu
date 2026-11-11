@@ -1,0 +1,7 @@
+node_modules/
+dist/
+helper/bin/
+helper/obj/
+vendor/
+*.log
+.claude/
